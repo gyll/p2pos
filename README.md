@@ -1,4 +1,4 @@
-p2pos
+p2pOS
 =====
 
 P2P Application Server
